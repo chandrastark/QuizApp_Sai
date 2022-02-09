@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuizApp_Sai/static/css/main.1ac9cde2.css",
+    "main.js": "/QuizApp_Sai/static/js/main.7544a249.js",
+    "static/js/787.9e90ff23.chunk.js": "/QuizApp_Sai/static/js/787.9e90ff23.chunk.js",
+    "index.html": "/QuizApp_Sai/index.html",
+    "main.1ac9cde2.css.map": "/QuizApp_Sai/static/css/main.1ac9cde2.css.map",
+    "main.7544a249.js.map": "/QuizApp_Sai/static/js/main.7544a249.js.map",
+    "787.9e90ff23.chunk.js.map": "/QuizApp_Sai/static/js/787.9e90ff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac9cde2.css",
+    "static/js/main.7544a249.js"
+  ]
+}
